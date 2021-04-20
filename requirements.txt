@@ -1,0 +1,7 @@
+python 3.7.7 and packages:
+
+tomotopy 0.9.1
+pandas 1.0.3
+numpy 1.18.1 
+scikit-learn 0.22.1
+bigartm10 0.10.1 
